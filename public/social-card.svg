@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#101211"/>
+  <path d="M0 108H1200M0 536H1200" stroke="#303931"/>
+  <g transform="translate(48 26)" fill="none" stroke="#c3f17a" stroke-width="3.5" stroke-linecap="round"><path d="M14 34c-2-13 6-22 18-22s20 9 18 22c-1 12-9 19-18 19S15 46 14 34Z"/><path d="M16 24c-10-9-2-19 6-9M48 24c10-9 2-19-6-9M23 32v2m18-2v2m-12 6h6m-3 0v5m-7-1c3 5 11 5 14 0"/></g>
+  <text x="122" y="69" fill="#edf1eb" font-family="Arial,sans-serif" font-size="36" font-weight="600">squeek.</text>
+  <text x="279" y="66" fill="#a0aaa3" font-family="Arial,sans-serif" font-size="22">Price Action Terminal</text>
+  <circle cx="993" cy="54" r="5" fill="#7eddb3"/><text x="1011" y="62" fill="#a0aaa3" font-family="Arial,sans-serif" font-size="20">Hamster powered</text>
+  <text x="60" y="239" fill="#edf1eb" font-family="Arial,sans-serif" font-size="72" font-weight="600" letter-spacing="-3">Read the wheel.</text>
+  <text x="60" y="326" fill="#c3f17a" font-family="Arial,sans-serif" font-size="72" font-weight="600" letter-spacing="-3">Find your edge.</text>
+  <text x="64" y="385" fill="#a0aaa3" font-family="Arial,sans-serif" font-size="23">Live activity. Algorithmic signals. You vs the AI.</text>
+  <rect x="64" y="428" width="226" height="54" rx="8" fill="#c3f17a"/><text x="90" y="462" fill="#18210e" font-family="Arial,sans-serif" font-size="21" font-weight="600">Make your prediction →</text>
+  <g transform="translate(730 172)"><rect width="402" height="309" rx="14" fill="#151816" stroke="#303931"/>
+  <g stroke="#252c27" stroke-dasharray="3 5"><path d="M22 70h358M22 130h358M22 190h358M22 250h358M80 32v244M150 32v244M220 32v244M290 32v244M360 32v244"/></g>
+  <text x="24" y="36" fill="#a0aaa3" font-family="Arial,sans-serif" font-size="16">Hamster / Work index</text>
+  <g stroke="#7eddb3" fill="#7eddb3"><path d="M46 195v50M80 162v64M114 147v48M148 103v73M250 90v50M284 66v66M352 59v71"/><rect x="39" y="207" width="14" height="27"/><rect x="73" y="179" width="14" height="34"/><rect x="107" y="158" width="14" height="28"/><rect x="141" y="116" width="14" height="49"/><rect x="243" y="101" width="14" height="29"/><rect x="277" y="77" width="14" height="41"/><rect x="345" y="76" width="14" height="33"/></g>
+  <g stroke="#f19aa2" fill="#f19aa2"><path d="M182 102v64M216 124v51M318 83v69"/><rect x="175" y="118" width="14" height="36"/><rect x="209" y="137" width="14" height="26"/><rect x="311" y="96" width="14" height="40"/></g>
+  <text x="24" y="291" fill="#849087" font-family="Arial,sans-serif" font-size="14">Activity index · not a token price</text></g>
+  <text x="64" y="585" fill="#849087" font-family="Arial,sans-serif" font-size="19">A virtual prediction game powered by Squeekchain’s live API</text>
+</svg>

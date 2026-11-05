@@ -1,0 +1,10 @@
+# Path budget: dependency/cache artifacts 0 bytes; scratch 0 bytes.
+# All matching directories are excluded at every nesting level.
+node_modules/
+.npm/
+.npm-cache/
+.vite/
+.cache/
+test/scratch/
+*.tsbuildinfo
+# dist/ is an intentional, required deliverable (budget: 1 MiB).
